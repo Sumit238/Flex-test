@@ -80,6 +80,7 @@ body{
     text-decoration: none;
     border: 1px solid rgb(44, 99, 218);
     margin: 20px 0px;
+    transition: all 1s linear;
 }
 .pricing-button:hover{
    background-color: rgb(44, 99, 218); 
